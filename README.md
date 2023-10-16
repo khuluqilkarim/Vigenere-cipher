@@ -71,30 +71,30 @@ Sama seperti pada bagian fungsi `encodeText()` point pentingnya terdapat pada ba
 
 ### Usage Program
 
-###### `Running Encrypt program `
+###### Running Encrypt program
 
 ```bash
 python main.py -t "WELCOME" -k "KHULUQ" -e
 ```
 
-###### `Results`
+###### Results
 
 ```bash
 Encode: GLFNICO
 ```
 
-###### `Running Dekript program `
+###### Running Dekript program
 
 ```bash
 python main.py -t "GLFNICO" -k "KHULUQ" -d
 ```
 
-###### `Results`
+###### Results
 
 ```bash
 Decode: WELCOME
 ```
 
-### `Prove of Running Code`
+### Prove of Running Code
 
 ![](assets/hasil.png)
